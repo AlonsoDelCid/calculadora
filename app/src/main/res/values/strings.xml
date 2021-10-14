@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="cateto_c">Cateto C:</string>
+    <string name="cateto_b">Cateto B:</string>
 </resources>
